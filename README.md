@@ -41,7 +41,7 @@ To ensure the accuracy and reliability of the predictions, the machine learning 
 
 ## Contributors
 
-- Mahesh Sathe (https://github.com/maheshsahe09=7)
+- Mahesh Sathe (https://github.com/maheshsathe07)
 
 Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements or bug fixes.
 
